@@ -1,0 +1,1318 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cal",
+				"callID"
+			],
+			[
+				"call",
+				"callStatus"
+			],
+			[
+				"sha",
+				"sharedCallCenter"
+			],
+			[
+				"TUCl",
+				"TUCallCenter"
+			],
+			[
+				"TUCal",
+				"TUCallCenter"
+			],
+			[
+				"CTTel",
+				"CTTelephonyCenterGetDefault"
+			],
+			[
+				"hancCa",
+				"handleNotificationFromConnection"
+			],
+			[
+				"objC",
+				"objc_getClass"
+			],
+			[
+				"UIC",
+				"UITableViewCellStyleDefault"
+			],
+			[
+				"prefeences",
+				"Preferences"
+			],
+			[
+				"displ",
+				"displayIdentifier"
+			],
+			[
+				"object",
+				"objectAtIndex"
+			],
+			[
+				"SBDisp",
+				"SBDisplayItem"
+			],
+			[
+				"SBDis",
+				"SBDisplayItem"
+			],
+			[
+				"SBDispl",
+				"SBDisplayLayout"
+			],
+			[
+				"dismiss",
+				"dismissedApp"
+			],
+			[
+				"iOS",
+				"iOS8"
+			],
+			[
+				"spring",
+				"springboard"
+			],
+			[
+				"bundle",
+				"bundleIdentifier"
+			],
+			[
+				"main",
+				"mainBundle"
+			],
+			[
+				"once",
+				"oncePerRespring"
+			],
+			[
+				"cance",
+				"cancelButtonTitle"
+			],
+			[
+				"pass",
+				"passcodeAlert"
+			],
+			[
+				"stat",
+				"statusTitleView"
+			],
+			[
+				"isT",
+				"isTouchIDAvailable"
+			],
+			[
+				"logo",
+				"logoView"
+			],
+			[
+				"icon",
+				"iconView"
+			],
+			[
+				"ico",
+				"iconView"
+			],
+			[
+				"nav",
+				"navigationController"
+			],
+			[
+				"anim",
+				"animated"
+			],
+			[
+				"wave",
+				"waveyViewYCenter"
+			],
+			[
+				"wavey",
+				"waveyViewXCenter"
+			],
+			[
+				"disp",
+				"dispatch_get_main_queue"
+			],
+			[
+				"dispatch",
+				"dispatch_async"
+			],
+			[
+				"man",
+				"mainScree"
+			],
+			[
+				"SCREEn",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"SCR",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"NSSt",
+				"NSStringFromCGPoint"
+			],
+			[
+				"starte",
+				"startedListening"
+			],
+			[
+				"SCREE",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"SCRE",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"blue",
+				"blueColor"
+			],
+			[
+				"wav",
+				"waveyView"
+			],
+			[
+				"aud",
+				"audioPlot"
+			],
+			[
+				"UIV",
+				"UIViewAnimationOptionCurveEaseIn"
+			],
+			[
+				"blu",
+				"blueAcBar"
+			],
+			[
+				"SC",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"remove",
+				"removeFromSuperview"
+			],
+			[
+				"MDRa",
+				"MDRadialProgressView"
+			],
+			[
+				"origin",
+				"originalYCenter"
+			],
+			[
+				"SCREn",
+				"SCREEN_WIDTH"
+			],
+			[
+				"share",
+				"sharedApplication"
+			],
+			[
+				"resetF",
+				"resetFailedPass"
+			],
+			[
+				"wrong",
+				"wrongPassEntered"
+			],
+			[
+				"remo",
+				"removePasscodeView"
+			],
+			[
+				"handl",
+				"handleBiometricEvent"
+			],
+			[
+				"SBUIB",
+				"SBUIBiometricEventMonitorDelegate"
+			],
+			[
+				"mon",
+				"moniter"
+			],
+			[
+				"handle",
+				"handleBiometricEvent"
+			],
+			[
+				"start",
+				"startMoniteringEvents"
+			],
+			[
+				"startM",
+				"_startMatching"
+			],
+			[
+				"AS",
+				"ASTouchIDHelper"
+			],
+			[
+				"SBIO",
+				"SBUIBiometricEventMonitor"
+			],
+			[
+				"SBUI",
+				"SBUIBiometricEventMonitor"
+			],
+			[
+				"addO",
+				"addObserver"
+			],
+			[
+				"_mo",
+				"_monitorDelegate"
+			],
+			[
+				"de",
+				"delegate"
+			],
+			[
+				"_moni",
+				"_monitorDelegate"
+			],
+			[
+				"Tocu",
+				"TouchIDFingerUp"
+			],
+			[
+				"De",
+				"DebugLogC"
+			],
+			[
+				"Touch",
+				"TouchIDFingerDown"
+			],
+			[
+				"SBU",
+				"SBUIBiometricEventMoniterDelegate"
+			],
+			[
+				"SB",
+				"SBBulletinViewController"
+			],
+			[
+				"play",
+				"playPause"
+			],
+			[
+				"is",
+				"isPlaying"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"MP",
+				"MPUChronologicalProgressView"
+			],
+			[
+				"image",
+				"imageHolderData"
+			],
+			[
+				"imageHold",
+				"imageHolderData"
+			],
+			[
+				"objec",
+				"objectForKey"
+			],
+			[
+				"imageD",
+				"imageDict"
+			],
+			[
+				"lao",
+				"layoutRealBadges"
+			],
+			[
+				"layout",
+				"layoutRealBadges"
+			],
+			[
+				"badge",
+				"badgeValue"
+			],
+			[
+				"create",
+				"_createImageForText"
+			],
+			[
+				"SBIcon",
+				"SBIconBadge"
+			],
+			[
+				"CGR",
+				"CGRectZero"
+			],
+			[
+				"CGRe",
+				"CGRectMake"
+			],
+			[
+				"badgeI",
+				"badgeImageView"
+			],
+			[
+				"bad",
+				"badgeString"
+			],
+			[
+				"badgeIm",
+				"badgeImageView"
+			],
+			[
+				"SBIc",
+				"SBIconBadge"
+			],
+			[
+				"SBI",
+				"SBIconBadge"
+			],
+			[
+				"initW",
+				"initWithApplication"
+			],
+			[
+				"Con",
+				"Confero"
+			],
+			[
+				"UIBu",
+				"UIButtonType"
+			],
+			[
+				"butt",
+				"buttonWithType"
+			],
+			[
+				"Confer",
+				"ConferoButton"
+			],
+			[
+				"curr",
+				"currentAppImageView"
+			],
+			[
+				"Conf",
+				"ConferoButton"
+			],
+			[
+				"openA",
+				"openAppButton"
+			],
+			[
+				"displayIden",
+				"displayIdentifier"
+			],
+			[
+				"Cnf",
+				"ConferoButton"
+			],
+			[
+				"curre",
+				"currentAppImageView"
+			],
+			[
+				"CMa",
+				"CMainScrollView"
+			],
+			[
+				"shared",
+				"sharedInstance"
+			],
+			[
+				"back",
+				"backgroundBlur"
+			],
+			[
+				"backgr",
+				"backgroundBlurSettings"
+			],
+			[
+				"_UIBack",
+				"_UIBackdropViewSettings"
+			],
+			[
+				"x",
+				"xCenter"
+			],
+			[
+				"ALA",
+				"ALApplicationIconSizeLarge"
+			],
+			[
+				"num",
+				"numberWithInt"
+			],
+			[
+				"C",
+				"Confero"
+			],
+			[
+				"asc",
+				"ascendingApps"
+			],
+			[
+				"asce",
+				"ascendingSortedDict"
+			],
+			[
+				"NSMut",
+				"NSMutableDictionary"
+			],
+			[
+				"ascd",
+				"ascendingBadges"
+			],
+			[
+				"NSMutab",
+				"NSMutableArray"
+			],
+			[
+				"obj",
+				"obj2"
+			],
+			[
+				"string",
+				"stringValue"
+			],
+			[
+				"descen",
+				"descendingIDs"
+			],
+			[
+				"DESC",
+				"descendingIDs"
+			],
+			[
+				"or",
+				"orAscending"
+			],
+			[
+				"CM",
+				"CMainScrollView"
+			],
+			[
+				"desce",
+				"descending"
+			],
+			[
+				"desc",
+				"descendingIDs"
+			],
+			[
+				"applica",
+				"applicationIconForDisplayIdentifier"
+			],
+			[
+				"basg",
+				"badgeApps"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/PhillipTennen/Documents/develop/WIP/conformity8/Tweak.xm",
+			"settings":
+			{
+				"buffer_size": 972,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Tweak.xm",
+			"settings":
+			{
+				"buffer_size": 34493,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/private/var/folders/6m/6bkxky7j1rv58jp3knnfvw9h0000gn/T/temp.bjYNdD/TUCall.h",
+			"settings":
+			{
+				"buffer_size": 8104,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/private/var/folders/6m/6bkxky7j1rv58jp3knnfvw9h0000gn/T/temp.VMcld1/TUTelephonyCall.h",
+			"settings":
+			{
+				"buffer_size": 1405,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/private/var/folders/6m/6bkxky7j1rv58jp3knnfvw9h0000gn/T/temp.K505jW/TUCallCenter.h",
+			"settings":
+			{
+				"buffer_size": 7074,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/private/var/folders/6m/6bkxky7j1rv58jp3knnfvw9h0000gn/T/temp.TWGwgZ/CTCall.h",
+			"settings":
+			{
+				"buffer_size": 717,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/private/var/folders/6m/6bkxky7j1rv58jp3knnfvw9h0000gn/T/temp.a24G9j/TUCallCenter.h",
+			"settings":
+			{
+				"buffer_size": 7076,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/theos.sublime-build",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packae",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Packa",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/PhillipTennen/Documents/develop/WIP/conformity"
+	],
+	"file_history":
+	[
+		"/Users/PhillipTennen/Documents/develop/WIP/asos/Preferences/Asos.m",
+		"/Users/PhillipTennen/Documents/develop/WIP/asos/BTTouchIDController.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/asos/Tweak.xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/asos/Preferences/BTTouchIDController.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/asos/BTTouchIDController.mm",
+		"/Users/PhillipTennen/Documents/develop/WIP/asos/Preferences/Interfaces.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/asos/BTTouchIDController/BTTouchIDController copy.mm",
+		"/Users/PhillipTennen/Documents/develop/WIP/asos/BTTouchIDController/BTTouchIDController.mm",
+		"/Users/PhillipTennen/Documents/develop/WIP/asos/Preferences/Asos.xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/asos/BTTouchIDController/Tweak.xm",
+		"/Users/PhillipTennen/Documents/develop/Complete/slideweather/Tweak.xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/catunlock/Tweak.xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/Acute8/Preferences/Acute.xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/asos/BTTouchIDController.m",
+		"/Users/PhillipTennen/Documents/develop/WIP/asos/Interfaces.h",
+		"/private/var/folders/6m/6bkxky7j1rv58jp3knnfvw9h0000gn/T/temp.nTpIJC/SBAppSwitcherController.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/Acute8/TweakOLD.xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/Acute8/Preferences/_UISiriWaveyView.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/vibe/Listener.xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/Acute8/ZLSinusWaveView/ZLSinusWaveView.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/Acute8/interfaces.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/Acute for iOS 8/MDRadialProgress1/MDRadialProgress/ViewController.m",
+		"/Users/PhillipTennen/Documents/develop/WIP/conformity/Tweak.xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/Acute8/EZAudio/EZAudio.m",
+		"/Users/PhillipTennen/Documents/develop/WIP/Acute8/EZAudio/EZAudio.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/Acute8/MDRadialProgress/MDRadialProgressTheme.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/Acute for iOS 8/Tweak(OLD).xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/Acute for iOS 8/MDRadialProgress/MDRadialProgress.h",
+		"/Users/PhillipTennen/Documents/develop/taptap/Tweak.xm",
+		"/Users/PhillipTennen/Documents/develop/testtweak/Tweak.xm",
+		"/Users/PhillipTennen/Documents/Site/dist/css/bootstrap.css",
+		"/Users/PhillipTennen/Documents/My site.html",
+		"/Users/PhillipTennen/Documents/develop/WIP/confero/Tweak.xm",
+		"/Users/PhillipTennen/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/39E4B333-11E6-4B32-BBA6-40880C50A9B0/_UIBackdropView.h",
+		"/opt/unused/UIKit/_UIBackdropViewSettings.h",
+		"/Users/PhillipTennen/Dropbox/SHARED/finished/camtext/theos/iphoneheaders/SpringBoard/SBApplicationIcon.h",
+		"/Users/PhillipTennen/Documents/develop/Complete/hermes/Tweak.xm",
+		"/Users/PhillipTennen/Documents/develop/Complete/hermes/Interfaces.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/Scenic/SBBlurryArtworkView.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/Scenic/theos/bin/lib/Logos/Generator.pm",
+		"/Users/PhillipTennen/Documents/develop/WIP/Scenic/PrivateHeaders.h",
+		"/Users/PhillipTennen/Documents/develop/Complete/Helius/Tweak.xm",
+		"/opt/theos/include/iOS-Headers/Compare_Latest/PrivateFrameworks/SpringBoardFoundation/SBFGlintyStringView.h",
+		"/opt/unused/SpringBoard/SBLockScreenView.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/Scenic/Spectral/Tweak.xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/Scenic/SBBlurryArtworkView.m",
+		"/Users/PhillipTennen/Documents/develop/WIP/Lullaby/Listener.xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/Scenic/Tweak.xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/emblem/Tweak.xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/screencontrol/Listener.xm",
+		"/opt/theos/include/iOS-Headers/iOS6.0/PrivateFrameworks/Preferences/PSListController.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/asos/Preferences/Asos.mm",
+		"/Users/PhillipTennen/Documents/develop/WIP/shufflelock/Listener.xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/screencontrol/Tweak.xm",
+		"/Users/PhillipTennen/Downloads/iOS-Headers-master/iOS7/PrivateFrameworks/SpringBoardUIServices/SBUIPasscodeLockViewBase.h",
+		"/opt/theos/include/iOS-Headers/Compare_Latest/PrivateFrameworks/SpringBoardUIServices/SBUIPasscodeLockViewWithKeypad.h",
+		"/Users/PhillipTennen/Downloads/7.1 SpringBoard Headers/SBUIPasscodeLockViewDelegate.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/sleepaway/Listener.xm",
+		"/Users/PhillipTennen/Documents/develop/Complete/vibe/Listener.xm",
+		"/Users/PhillipTennen/Downloads/include-master/SpringBoard/SBIcon.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/Stratos/SwitcherTrayView.m",
+		"/Users/PhillipTennen/Documents/develop/WIP/redditpaper/Tweak.xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/Stratos/SwitcherTrayView.xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/Stratos/SwitcherTrayCardView.m",
+		"/Users/PhillipTennen/Documents/develop/WIP/Stratos/EADynamicBlur.m",
+		"/Users/PhillipTennen/Documents/develop/WIP/Stratos/Tweak.xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/hermes/Settings/Hermes.mm",
+		"/Users/PhillipTennen/Documents/develop/WIP/kiktest/Tweak.xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/hermes/Interfaces.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/hermes/Skype/Tweak.xm",
+		"/opt/theos/include/WhatsApp/WAMessage.h",
+		"/opt/theos/include/WhatsApp/WAChatStorage.h",
+		"/opt/theos/include/WhatsApp/ChatManager.h",
+		"/opt/theos/include/WhatsApp/ChatViewController.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/hermes/hermes/Hermes.mm",
+		"/Users/PhillipTennen/Desktop/kikhead/CoreDataConversationManager.h",
+		"/opt/theos/include/Kik/KikNetwork.h",
+		"/Users/PhillipTennen/Desktop/kikhead/KikChatHelper.h",
+		"/opt/theos/include/Kik/Core.h",
+		"/private/var/folders/6m/6bkxky7j1rv58jp3knnfvw9h0000gn/T/temp.j7HJp6/KikUserHelper.h",
+		"/Users/PhillipTennen/Desktop/kikhead/CoreDataConversation.h",
+		"/opt/theos/include/Kik/KikStorage.h",
+		"/private/var/folders/6m/6bkxky7j1rv58jp3knnfvw9h0000gn/T/temp.oE6RxH/KikUser.h",
+		"/private/var/folders/6m/6bkxky7j1rv58jp3knnfvw9h0000gn/T/temp.0G6M32/KikAPIMessage.h",
+		"/Users/PhillipTennen/Dropbox/SHARED/wip/Acute/acutebar/Tweak.xm",
+		"/Users/PhillipTennen/Dropbox/SHARED/wip/Acute/Tweak.xm",
+		"/Users/PhillipTennen/Dropbox/SHARED/wip/Acute/Preferences/Acute.xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/taptheat/Tweak.xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/taptheat/taptheat/TapTheAt.mm",
+		"/Users/PhillipTennen/Desktop/kikhead/CardsViewController.h",
+		"/Users/PhillipTennen/Desktop/kikhead/KikPlugin.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/kiktest/Logs.xm",
+		"/Users/PhillipTennen/Desktop/kikhead/MessageTextBarController.h",
+		"/Users/PhillipTennen/Desktop/kikhead/KikSendMessageTask.h",
+		"/Users/PhillipTennen/Dropbox/SHARED/wip/Acute/Preferences/interfaces.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/classiclockscreen/CSCenteredPasscodeView.mm",
+		"/Users/PhillipTennen/Documents/develop/WIP/classiclockscreen/SBAwayView.mm",
+		"/Users/PhillipTennen/Documents/develop/WIP/classiclockscreen/SBBatteryChargingView.mm",
+		"/Users/PhillipTennen/Desktop/kikhead/KikChat.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/Genie copy/Tweak.xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/classiclockscreen/Tweak.xm",
+		"/Users/PhillipTennen/Documents/develop/WIP/classiclockscreen/classiclockscreensettings/ClassicLockScreenSettings.mm",
+		"/Users/PhillipTennen/Downloads/passdialpro-2/theos/include/SpringBoard/SBApplication.h",
+		"/opt/theos/include/iOS-Headers/iOS7/SpringBoard/SBApplication.h",
+		"/opt/theos/include/iOS-Headers/iOS7/Frameworks/CoreTelephony/CTMessageCenter.h",
+		"/Users/PhillipTennen/Downloads/iOS-Headers-master/iOS7/PrivateFrameworks/ChatKit/CKConversation.h",
+		"/Users/PhillipTennen/Desktop/ChatHeaders/CKEntity.h",
+		"/Users/PhillipTennen/Desktop/ChatHeaders/CKIMMessage.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/hermes/etConnect/etConnect-Demo OSX/ESMainView.m",
+		"/Users/PhillipTennen/Documents/develop/WIP/hermes/Tweak.xm",
+		"/Users/PhillipTennen/Desktop/ChatHeaders/CKTranscriptController.h",
+		"/Users/PhillipTennen/Downloads/iOS-Headers-master/Compare_Latest/PrivateFrameworks/IMFoundation/IMRemoteDaemonProtocol-Protocol.h",
+		"/Users/PhillipTennen/Desktop/ChatHeaders/CKConversation.h",
+		"/Users/PhillipTennen/Desktop/ChatHeaders/CKConversationList.h",
+		"/Users/PhillipTennen/Desktop/ChatHeaders/CKComposition.h",
+		"/Users/PhillipTennen/Dropbox/SHARED/wip/boardswitcher/theos/include/ChatKit/CKConversationListController.h",
+		"/Users/PhillipTennen/Dropbox/SHARED/wip/Acute/interfaces.h",
+		"/Users/PhillipTennen/Downloads/iOS-Headers-master/iOS7/PrivateFrameworks/ChatKit/CKIMMessage.h",
+		"/Users/PhillipTennen/Downloads/iOS-Headers-master/iOS7/PrivateFrameworks/ChatKit/CKMessagePart.h",
+		"/Users/PhillipTennen/Downloads/iOS-Headers-master/iOS7/PrivateFrameworks/ChatKit/CKTextMessagePart.h",
+		"/Users/PhillipTennen/Downloads/iOS-Headers-master/iOS7/PrivateFrameworks/ChatKit/CKEntity.h",
+		"/Users/PhillipTennen/Downloads/iOS-Headers-master/Compare_Latest/PrivateFrameworks/IMCore/IMChatRegistry.h",
+		"/opt/theosWEIRD/include/iphoneheaders/ChatKit/CKSMSService.h",
+		"/Users/PhillipTennen/Documents/develop/WIP/bottombar/Tweak.xm",
+		"/Users/PhillipTennen/Downloads/include-master/SpringBoard/SBDeviceLockController.h",
+		"/Users/PhillipTennen/Dropbox/SHARED/wip/Acute/Preferences/PSViewController.h",
+		"/Users/PhillipTennen/Downloads/passdialpro-2/Tweak.xm",
+		"/Users/PhillipTennen/Downloads/passdialpro-2/passdialpro/PassDialPro.mm"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"controller",
+			"callcontroller",
+			"call ",
+			"tucallcenter",
+			"call",
+			"BTTouchID",
+			"btt",
+			"bttou`",
+			"bttouchid",
+			"BTTouchId",
+			"weather",
+			"icon",
+			"showPasscodeAlert",
+			"multita",
+			"IS_OS",
+			"1",
+			"ismissToApp",
+			"{\n",
+			"multi",
+			"applicationW",
+			"showPasscode",
+			"displayLayout",
+			"openapps",
+			"openApps",
+			"nstimer",
+			"validPass",
+			"touchUn",
+			"onceRespring",
+			"oncePerRespring",
+			"OnceRespring",
+			"load",
+			"touch",
+			"if (isTouchIDAvailable)",
+			"touch",
+			"hidePasscodeA",
+			"cortexdevteam",
+			"passshower",
+			"asospasscodeview",
+			"popToRoot",
+			"rootController",
+			"cortexdevteam",
+			"self",
+			"navigation",
+			"controller",
+			"navigationController",
+			"shouldHide",
+			"hasPasscode",
+			"bar",
+			"show",
+			"hidden",
+			"statusba",
+			"dispatch",
+			"Library/Appli",
+			"earsListener",
+			"listenerIsActive",
+			"micImage",
+			"uisiriwavey",
+			"Clear",
+			"network",
+			"sbitem",
+			"status",
+			"globRadV",
+			"acBarWind",
+			"nsthread",
+			"uiwindow",
+			"loading",
+			"register",
+			"acute",
+			"loadSpe",
+			"com.sassphil.acute",
+			"bounds",
+			"self.indeterm",
+			"self.indeter",
+			"self.indeterminateRadialView",
+			"receive",
+			"stopList",
+			"receive",
+			"main",
+			"hideTimer",
+			"startlistening",
+			"com.sassphil.acute",
+			"sassphi",
+			"progressviewwithframe",
+			"100",
+			"listen",
+			"showPass",
+			"launch",
+			"application",
+			"resetForF",
+			"resetFailed",
+			"touchIdHel",
+			"showpasscodeView",
+			"passcodeView",
+			"appDisplayName",
+			"playpause",
+			"playButton",
+			"status",
+			"scrubber",
+			"scr",
+			"enabled",
+			"prefs",
+			"MPUChronologicalProgressView",
+			"scrubber",
+			"enabled",
+			"pirated",
+			"col",
+			"feature",
+			"#",
+			"Generic placeholder image",
+			"data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==",
+			"navbar",
+			"height",
+			"navbar",
+			"sbappli",
+			"mobilemai",
+			"sbapplication",
+			"backgroundB",
+			"launchAppl",
+			"badgeNumberOrS",
+			"ascendingIDs",
+			"model",
+			"SBIconMode",
+			"badgeValue",
+			"currApp",
+			"SBIconController",
+			"initial",
+			"NSLog",
+			"Mail"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"if (isTouchIDAvailable())",
+			"phillipt",
+			"com.phillipt.acute8",
+			"globRadView",
+			"com.phillipt.acute8",
+			"",
+			"./Icons/.png",
+			"mainCFView ",
+			"mainCFView",
+			"self.replyTextField",
+			"Scenic",
+			"nextButton",
+			"newPasscodeView",
+			"passcodeField",
+			"inChar",
+			"replyButton",
+			"WhatsApp",
+			"kikPrefs",
+			"NSLog",
+			"dl",
+			"backButton",
+			"backImage ",
+			"ready",
+			"userFriendly",
+			"intelligent",
+			"Explan",
+			"ready",
+			"userFriendly",
+			"intelligent",
+			"intuitive",
+			"explain",
+			"welcome",
+			"pass",
+			"picAlert",
+			"noRecAlert",
+			"mathAlert",
+			"rand",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"7",
+			"8",
+			"TWENTY",
+			"THIRTY",
+			"FORTY",
+			"FIFTY",
+			"SIXTY",
+			"SEVENTY",
+			"EIGHTY",
+			"myButton",
+			"underLabel",
+			"_label",
+			"_",
+			"nextButton",
+			"wavey",
+			"downward",
+			"tripleUpward",
+			"doubleUpward",
+			"upward",
+			"Right",
+			"Left",
+			"WIDTH*2",
+			"Helius",
+			"newScroll",
+			"newScroll.",
+			"newScroll ",
+			"newView",
+			"controlsContainer",
+			"recognizer",
+			"removeGestureRecognizer",
+			"UIButtonTypeCustom",
+			"(500*1000);",
+			"(1000);",
+			"(1);",
+			"sleep(1);",
+			"1",
+			"NSString stringWithFormat:@\"%@, %@\", hourString, dateString",
+			"",
+			"album",
+			"author",
+			"title",
+			"clockLabel",
+			"Arrow",
+			"TimeAndDate",
+			"Date",
+			"Legal",
+			"isEqual:",
+			"timeOfDayString",
+			"time",
+			"testText",
+			"debug",
+			"minutesInterval",
+			"refreshInterval",
+			"!exact",
+			"itIs",
+			"back",
+			"dim",
+			"back",
+			"dim",
+			"dimColor",
+			"highlightColor",
+			"\"backColor\"",
+			"\"dimColor\"",
+			"backColor",
+			"dimColor",
+			"actualMinsTopLabel",
+			"minutesLabel",
+			"actualMinsBottomLabel",
+			"actualMinsTopLabel",
+			"secondLabelString",
+			"secondNum"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/PhillipTennen/Documents/develop/WIP/conformity8/Tweak.xm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 972,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								848,
+								848
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Tweak.xm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31021,
+								30748
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11426.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/private/var/folders/6m/6bkxky7j1rv58jp3knnfvw9h0000gn/T/temp.bjYNdD/TUCall.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 290.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/private/var/folders/6m/6bkxky7j1rv58jp3knnfvw9h0000gn/T/temp.VMcld1/TUTelephonyCall.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								648,
+								654
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 247.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/private/var/folders/6m/6bkxky7j1rv58jp3knnfvw9h0000gn/T/temp.K505jW/TUCallCenter.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7074,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3330,
+								3340
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 911.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/private/var/folders/6m/6bkxky7j1rv58jp3knnfvw9h0000gn/T/temp.TWGwgZ/CTCall.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								717,
+								227
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/private/var/folders/6m/6bkxky7j1rv58jp3knnfvw9h0000gn/T/temp.a24G9j/TUCallCenter.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7076,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3514,
+								3520
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 183.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Conformity.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 27.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = Conformity;
+	cell = PSLinkCell;
+	detail = ConformityListController;
+	icon = Conformity.png;
+	isController = 1;
+	label = Conformity;
+    };
+}
